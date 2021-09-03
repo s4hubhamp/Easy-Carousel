@@ -1,0 +1,6 @@
+[submodule "easy-carousel-frontend"]
+	path = easy-carousel-frontend
+	url = https://github.com/ShubhamP07/easy-carousel-frontend.git
+[submodule "easy-event-backend"]
+	path = easy-event-backend
+	url = https://github.com/ShubhamP07/easy-event-backend.git
