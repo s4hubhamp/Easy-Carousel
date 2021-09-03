@@ -10,3 +10,4 @@ ___you can visit https://easy-carousel.web.app/ to view app online.___
 * Redux
 * Node
 * Express
+* unsplash api
